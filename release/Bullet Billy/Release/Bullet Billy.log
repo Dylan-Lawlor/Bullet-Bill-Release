@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bullet Billy.vcxproj -> C:\Users\dylan\Desktop\billllyyy\bullet-bill-Dylan-Lawlor\Bullet Billy\Release\Bullet Billy.exe
